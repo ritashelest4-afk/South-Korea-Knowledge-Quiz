@@ -1,0 +1,54 @@
+body {
+    background-image: url(louie-nicolo-nimor-1Tf8X648BfA-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120%;
+    background-color: linear-gradient(90deg, rgba(242, 2, 2, 1) 0%, rgba(0, 54, 247, 1) 51%, rgba(255, 255, 255, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Noto Sans", sans-serif;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background: #f20202;
+    background: linear-gradient(90deg, rgb(255, 92, 92) 0%, rgba(0, 54, 247, 1) 51%, rgba(255, 255, 255, 1) 100%);
+    flex-wrap: wrap;
+    width: 600px;
+    align-items: center;
+    overflow: hidden;
+    padding: 50px;
+}
+
+label {
+    font-size:  16px;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.question {
+    padding: 10px;
+}
+
+#btn {
+    background-color: #af58d4;
+    color: #fff;
+    width: 50%;
+    border: 1px solid black;
+    padding:   15px;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+#par {
+    margin: auto;
+    margin-top: 10px;
+}
