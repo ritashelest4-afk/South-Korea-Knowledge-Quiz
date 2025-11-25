@@ -9,6 +9,13 @@ A fun and interactive quiz application that tests your knowledge about South Kor
 - Responsive Design for all devices
 - Result Summary with correct answers
 
+### My project provides the following interface:
+
+![Application main screen](assets/screen.png)
+
+![Demo application](assets/korea-four-one.gif)
+
+
 ### Use of technology
 
 - HTML5 
